@@ -1,0 +1,111 @@
+body {
+    /* background-color: bisque; */
+    padding: 0;
+    margin: 0;
+}
+
+.conteiner-1 {
+    /* background-color: aqua; */
+    margin-top: 10%;
+    margin-bottom: 10px;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+p {
+    text-align: center;
+    height: 9px;
+    margin-top: 1px;
+    
+}
+
+
+
+
+
+.conteiner-2 {
+    background-color: rgb(236, 236, 236);
+    padding-top: 1px;
+    padding-bottom: 5px;
+    margin-left: 2px;
+    margin-right: 2px;
+
+}
+
+.search-bar {
+    width: 30%;
+    display: block;
+    margin: auto;
+   }
+
+.conteiner-3 {
+    /* background-color: brown; */
+    /* padding-top: 1px; */
+    margin-top: 7px;
+    display: flex;
+    height: 105px;
+    
+}
+
+.link-box-1
+{
+    background-color: rgb(193, 199, 14);
+    width: 45%;
+    margin-left: 2px;
+
+    
+}
+
+/* .search-btn {
+    
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+article {
+    margin-top: 3%;
+    text-align: center;
+
+}
+
+.link-box-2
+{
+    background-color: aquamarine;
+    width: 25%;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+    display: block;
+    
+    
+    
+}
+
+.link-box-3
+{
+    background-color: rgb(193, 199, 14);
+    width: 40%;
+    margin-right: 2px;
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+    
+}
+
+.btn {
+    text-align: center;
+    margin-bottom: 3px;
+    margin-top: 2px;
+}
+
+input {
+    display: flex;
+    margin: auto;
+    margin-bottom: 2px;
+    text-align: center;
+}
